@@ -1,6 +1,6 @@
 # IT School News
 
-This is the final project from the Web Development course I attended @ IT School.
+This is the final made within the Web Development course I attended @ IT School.
 
 ## Demo
 
